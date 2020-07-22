@@ -1,7 +1,7 @@
 # sudowoodo
 ![alt text](https://github.com/haoxiangliew/sudowoodo/blob/master/sudowoodo.png?raw=true)
 
-**sudowoodo is a Rock-Type Pokemon, the final evolution of Bonsly, and is part of Nintendo's intellectual property. As with the [Fair Use](https://en.wikipedia.org/wiki/Fair_use) Act, it does not harm but promote their property in a reasonable way (Open Source GPLv3) and will NOT be used for profit.**
+**Sudowoodo is a Rock-Type Pokemon, the final evolution of Bonsly, and is part of Nintendo's intellectual property. As with the [Fair Use](https://en.wikipedia.org/wiki/Fair_use) Act, it does not harm but promote their property in a reasonable way (Open Source GPLv3) and will NOT be used for profit.**
 
 ### Did you ever want to launch a elevated command prompt from WSL without going through all the steps?
 * Win + X => Command Prompt (Admin)
