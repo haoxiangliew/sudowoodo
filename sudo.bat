@@ -1,0 +1,3 @@
+@echo off
+echo Opening an elevated Command Prompt...
+powershell.exe -Command "Start-Process 'cmd.exe' -Verb runAs"
