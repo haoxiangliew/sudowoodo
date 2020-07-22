@@ -8,7 +8,7 @@
 * Win => Search for Command Prompt => Right Click runas Admin
 ### Adding sudowoodo to your PATH on both systems lets you summon him to the rescue!
 
-Installation
+Installation & Usage
 ------
 **The following install steps are on Windows 10 2004 with Ubuntu 20.04 on WSL2, steps / instructions may differ depending on your system.**
 1. Clone this repository.
